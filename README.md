@@ -1,4 +1,4 @@
-# A Scrapy Project of meizitu.cn
+# A Scrapy Project of meizitu.net.cn
 
 Crawl pictures from http://www.meizitu.net.cn
 
