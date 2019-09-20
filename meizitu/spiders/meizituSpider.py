@@ -4,7 +4,7 @@ from meizitu.items import MeizituItem
 from scrapy.crawler import CrawlerProcess
 
 
-class jiandanSpider(scrapy.Spider):
+class meizituSpider(scrapy.Spider):
     name = 'meizitu'
     allowed_domains = []
     start_urls = ['http://www.meizitu.net.cn']
